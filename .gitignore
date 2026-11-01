@@ -17,10 +17,8 @@ htmlcov/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
-# Large raw datasets & artifacts (exclude from git by default)
+# Large raw dataset (exclude raw Excel file; processed Parquet is committed for deployment)
 online_retail_II.xlsx
-data/processed/*.parquet
-data/sample/*.parquet
 
 # OS files
 Thumbs.db
