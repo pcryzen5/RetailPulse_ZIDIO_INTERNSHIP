@@ -1,0 +1,167 @@
+[
+  {
+    "StockCode": "84077",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "Total_Units": 109898,
+    "Naive_WAPE": 55.4,
+    "Rolling_3M_WAPE": 57.79,
+    "Exp_Smoothing_WAPE": 54.41,
+    "Exp_Smoothing_MAE": 2541.082,
+    "Exp_Smoothing_RMSE": 3019.062,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "85099B",
+    "Description": "JUMBO BAG RED RETROSPOT",
+    "Total_Units": 98175,
+    "Naive_WAPE": 46.81,
+    "Rolling_3M_WAPE": 47.53,
+    "Exp_Smoothing_WAPE": 48.61,
+    "Exp_Smoothing_MAE": 2013.455,
+    "Exp_Smoothing_RMSE": 2176.054,
+    "Best_Model": "Rolling_3M"
+  },
+  {
+    "StockCode": "21212",
+    "Description": "PACK OF 72 RETROSPOT CAKE CASES",
+    "Total_Units": 96472,
+    "Naive_WAPE": 99.32,
+    "Rolling_3M_WAPE": 79.3,
+    "Exp_Smoothing_WAPE": 73.73,
+    "Exp_Smoothing_MAE": 1266.996,
+    "Exp_Smoothing_RMSE": 1539.896,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "85123A",
+    "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+    "Total_Units": 96027,
+    "Naive_WAPE": 65.9,
+    "Rolling_3M_WAPE": 66.5,
+    "Exp_Smoothing_WAPE": 65.39,
+    "Exp_Smoothing_MAE": 1614.753,
+    "Exp_Smoothing_RMSE": 1742.911,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "22197",
+    "Description": "SMALL POPCORN HOLDER",
+    "Total_Units": 89860,
+    "Naive_WAPE": 48.77,
+    "Rolling_3M_WAPE": 53.23,
+    "Exp_Smoothing_WAPE": 38.01,
+    "Exp_Smoothing_MAE": 3112.965,
+    "Exp_Smoothing_RMSE": 4332.475,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "84879",
+    "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+    "Total_Units": 81590,
+    "Naive_WAPE": 45.29,
+    "Rolling_3M_WAPE": 53.38,
+    "Exp_Smoothing_WAPE": 50.66,
+    "Exp_Smoothing_MAE": 1569.226,
+    "Exp_Smoothing_RMSE": 1679.485,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "17003",
+    "Description": "BROCADE RING PURSE ",
+    "Total_Units": 71394,
+    "Naive_WAPE": 84.69,
+    "Rolling_3M_WAPE": 75.31,
+    "Exp_Smoothing_WAPE": 96.06,
+    "Exp_Smoothing_MAE": 1206.542,
+    "Exp_Smoothing_RMSE": 1463.398,
+    "Best_Model": "Rolling_3M"
+  },
+  {
+    "StockCode": "21977",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "Total_Units": 56625,
+    "Naive_WAPE": 120.05,
+    "Rolling_3M_WAPE": 125.67,
+    "Exp_Smoothing_WAPE": 140.13,
+    "Exp_Smoothing_MAE": 1437.283,
+    "Exp_Smoothing_RMSE": 1543.047,
+    "Best_Model": "Rolling_3M"
+  },
+  {
+    "StockCode": "84991",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "Total_Units": 54537,
+    "Naive_WAPE": 130.72,
+    "Rolling_3M_WAPE": 64.49,
+    "Exp_Smoothing_WAPE": 62.63,
+    "Exp_Smoothing_MAE": 649.103,
+    "Exp_Smoothing_RMSE": 889.472,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "15036",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "Total_Units": 44365,
+    "Naive_WAPE": 67.58,
+    "Rolling_3M_WAPE": 180.08,
+    "Exp_Smoothing_WAPE": 319.57,
+    "Exp_Smoothing_MAE": 2053.767,
+    "Exp_Smoothing_RMSE": 2122.309,
+    "Best_Model": "Rolling_3M"
+  },
+  {
+    "StockCode": "20725",
+    "Description": "LUNCH BAG RED RETROSPOT",
+    "Total_Units": 40752,
+    "Naive_WAPE": 52.08,
+    "Rolling_3M_WAPE": 56.2,
+    "Exp_Smoothing_WAPE": 54.53,
+    "Exp_Smoothing_MAE": 680.555,
+    "Exp_Smoothing_RMSE": 861.65,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "84755",
+    "Description": "COLOUR GLASS T-LIGHT HOLDER HANGING",
+    "Total_Units": 40703,
+    "Naive_WAPE": 112.56,
+    "Rolling_3M_WAPE": 155.94,
+    "Exp_Smoothing_WAPE": 128.99,
+    "Exp_Smoothing_MAE": 767.038,
+    "Exp_Smoothing_RMSE": 837.731,
+    "Best_Model": "Exponential_Smoothing"
+  },
+  {
+    "StockCode": "22178",
+    "Description": "VICTORIAN GLASS HANGING T-LIGHT",
+    "Total_Units": 40572,
+    "Naive_WAPE": 47.19,
+    "Rolling_3M_WAPE": 40.85,
+    "Exp_Smoothing_WAPE": 50.69,
+    "Exp_Smoothing_MAE": 1033.42,
+    "Exp_Smoothing_RMSE": 1096.333,
+    "Best_Model": "Rolling_3M"
+  },
+  {
+    "StockCode": "21213",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "Total_Units": 40563,
+    "Naive_WAPE": 239.38,
+    "Rolling_3M_WAPE": 128.76,
+    "Exp_Smoothing_WAPE": 239.66,
+    "Exp_Smoothing_MAE": 1783.069,
+    "Exp_Smoothing_RMSE": 1867.82,
+    "Best_Model": "Rolling_3M"
+  },
+  {
+    "StockCode": "21232",
+    "Description": "STRAWBERRY CERAMIC TRINKET BOX",
+    "Total_Units": 38901,
+    "Naive_WAPE": 32.62,
+    "Rolling_3M_WAPE": 41.67,
+    "Exp_Smoothing_WAPE": 55.45,
+    "Exp_Smoothing_MAE": 579.085,
+    "Exp_Smoothing_RMSE": 675.249,
+    "Best_Model": "Rolling_3M"
+  }
+]

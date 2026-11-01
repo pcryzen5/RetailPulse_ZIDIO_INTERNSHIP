@@ -1,0 +1,65 @@
+{
+  "n_clusters": 4,
+  "silhouette_score": 0.3664,
+  "inertia": 4892.92,
+  "pca_explained_variance_pct": 95.13,
+  "total_customers": 5878,
+  "cluster_distribution": {
+    "0": 1961,
+    "2": 1456,
+    "1": 1261,
+    "3": 1200
+  },
+  "cluster_profiles": [
+    {
+      "Cluster": 0,
+      "Customer_Count": 1961,
+      "Median_Recency": 405.0,
+      "Median_Frequency": 1.0,
+      "Median_Monetary": 278.34000000000003,
+      "Mean_Recency": 397.1922488526262,
+      "Mean_Frequency": 1.3758286588475268,
+      "Mean_Monetary": 320.7650744518103,
+      "Provisional_Segment": "Dormant / Lost"
+    },
+    {
+      "Cluster": 1,
+      "Customer_Count": 1261,
+      "Median_Recency": 24.0,
+      "Median_Frequency": 3.0,
+      "Median_Monetary": 741.54,
+      "Mean_Recency": 29.207771609833465,
+      "Mean_Frequency": 3.04203013481364,
+      "Mean_Monetary": 860.7585741475019,
+      "Provisional_Segment": "Occasional / Regular"
+    },
+    {
+      "Cluster": 2,
+      "Customer_Count": 1456,
+      "Median_Recency": 187.0,
+      "Median_Frequency": 4.0,
+      "Median_Monetary": 1490.815,
+      "Mean_Recency": 231.38736263736263,
+      "Mean_Frequency": 5.045329670329671,
+      "Mean_Monetary": 1976.6920315934067,
+      "Provisional_Segment": "At Risk - High Value"
+    },
+    {
+      "Cluster": 3,
+      "Customer_Count": 1200,
+      "Median_Recency": 17.0,
+      "Median_Frequency": 13.0,
+      "Median_Monetary": 5092.82,
+      "Mean_Recency": 28.29,
+      "Mean_Frequency": 19.240833333333335,
+      "Mean_Monetary": 10910.800139166666,
+      "Provisional_Segment": "High-Value Champions"
+    }
+  ],
+  "label_mapping": {
+    "0": "Dormant / Lost",
+    "1": "Occasional / Regular",
+    "2": "At Risk - High Value",
+    "3": "High-Value Champions"
+  }
+}

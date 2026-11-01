@@ -1,0 +1,60 @@
+{
+  "feature_columns": [
+    "Recency",
+    "Frequency",
+    "Monetary",
+    "Tenure_Days",
+    "Avg_Order_Value",
+    "Recent_30D_Spend",
+    "Recent_30D_Tx"
+  ],
+  "train_size": 4224,
+  "test_size": 1057,
+  "class_balance_test": {
+    "churned": 598,
+    "active": 459
+  },
+  "baseline_logistic_regression": {
+    "Precision": 0.7516,
+    "Recall": 0.7843,
+    "F1_Score": 0.7676,
+    "ROC_AUC": 0.7985,
+    "PR_AUC": 0.8225,
+    "Confusion_Matrix": [
+      [
+        304,
+        155
+      ],
+      [
+        129,
+        469
+      ]
+    ]
+  },
+  "random_forest": {
+    "Precision": 0.7527,
+    "Recall": 0.8244,
+    "F1_Score": 0.7869,
+    "ROC_AUC": 0.8134,
+    "PR_AUC": 0.8255,
+    "Confusion_Matrix": [
+      [
+        297,
+        162
+      ],
+      [
+        105,
+        493
+      ]
+    ]
+  },
+  "feature_importances": {
+    "Recency": 0.361,
+    "Frequency": 0.244,
+    "Monetary": 0.1989,
+    "Tenure_Days": 0.0597,
+    "Avg_Order_Value": 0.0513,
+    "Recent_30D_Spend": 0.0548,
+    "Recent_30D_Tx": 0.0304
+  }
+}

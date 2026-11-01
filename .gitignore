@@ -1,0 +1,53 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Large raw datasets & artifacts (exclude from git by default)
+online_retail_II.xlsx
+data/processed/*.parquet
+data/sample/*.parquet
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Documentation & internal guides
+docs/
+HOW_TO_RUN.md
+*.pdf
+
+# AI assistants, agents & scratchpad
+scratch/
+scripts/build_notebooks.py
+.planning/
+.gemini/
+.cursor/
+.cursorrules
+.windsurf/
+.windsurfrules
+.claude/
+CLAUDE.md
+.copilot/
+.aider*
+.agent/
+prompts/
+*.prompt
+chat_history/
+.history/
+*.tmp
